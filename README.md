@@ -1,4 +1,4 @@
-# crypto-wallet
+# e-Book
 ## Cryptocurrency Wallet
 
 Crypto Wallet gives you the opportunity to create cryptocurrency wallets by just creating your personal account and generating a new public key for the currency you are interested in.
