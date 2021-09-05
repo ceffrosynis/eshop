@@ -56,6 +56,12 @@ python manage.py runserver
 ```
 ## App Presentation
 
+###### **Home Page**
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Home%20Page.png)
+
+###### **Product Page**
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Product%20Page.png)
+
 ###### **Login Page**
 ![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Log%20In%20Page.png)
 
