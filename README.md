@@ -1,8 +1,9 @@
 # e-Book
 ## Online Bookstore
 
-Crypto Wallet gives you the opportunity to create cryptocurrency wallets by just creating your personal account and generating a new public key for the currency you are interested in.
 
+
+e-Book is a simple full-stack e-commerce web application, which is written in Python, by using the Django Web Framework. Each user, in order to be able to use the platform, has to create a profile by providing some necessary information.
 ## Technical Overview
 This is a full-stack web application which is written in Python by making use of the Django Web Framework.
 
