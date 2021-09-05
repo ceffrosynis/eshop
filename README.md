@@ -4,6 +4,14 @@
 
 e-Book is a simple full-stack e-commerce web application, which is written in Python, by using the Django Web Framework. Each user, in order to be able to use the platform, has to create a profile by providing some necessary information.
 
+Each user can:
+
+* Insert a new product by giving:
+    * Quantity
+    * Price
+    * Description  
+* Buy a product
+
 ## Project Objective
 The objective in this project is to become familiar with the **main logic of an e-commerce app** and **the Django Web Framework**
 
