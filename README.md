@@ -18,13 +18,11 @@ The objective in this project is to become familiar with the **main logic of an 
 ## Directory Structure
 
     .
-    ├── ...
-    ├── docs                    # Documentation files (alternatively `doc`)
-    │   ├── TOC.md              # Table of contents
-    │   ├── faq.md              # Frequently asked questions
-    │   ├── misc.md             # Miscellaneous information
-    │   ├── usage.md            # Getting started guide
-    │   └── ...                 # etc.
+    ├── ebook
+    │   ├── ebook          # Project's main directory
+    │   ├── eshop          # Application's main logic
+    │   ├── media          # App's images
+    │   └── ...
     └── ...
 
 
