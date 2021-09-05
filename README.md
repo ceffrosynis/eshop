@@ -19,9 +19,14 @@ The objective in this project is to become familiar with the **main logic of an 
 
     .
     ├── ebook
-    │   ├── ebook          # Project's main directory
-    │   ├── eshop          # Application's main logic
-    │   ├── media          # App's images
+    │   ├── ebook             # Project's main directory
+    │   ├── eshop             # Application's main logic
+    │   │   ├── ...
+    │   │   ├── static        # Application's static files
+    │   │   ├── templates     # Application's templates (Home Page, Cart Page, Login Page ...)
+    │   │   ├── templatetags  # A template tag for computing the total quantity
+    │   │   └── ...
+    │   ├── media             # App's images
     │   └── ...
     └── ...
 
