@@ -6,7 +6,7 @@ e-Book is a simple full-stack e-commerce web application, which is written in Py
 
 Each user can:
 
-* Insert a new product by giving:
+* Insert a new product (sell) by giving:
     * Quantity
     * Price
     * Description  
