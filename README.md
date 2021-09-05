@@ -57,16 +57,16 @@ python manage.py runserver
 ## App Presentation
 
 ###### **Login Page**
-![alt text](https://github.com/ceffrosynis/crypto-wallet/blob/main/pics/Login%20Page.png)
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Log%20In%20Page.png)
 
 ###### **Registration Page**
-![alt text](https://github.com/ceffrosynis/crypto-wallet/blob/main/pics/Registration%20Page.png)
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Register%20Page.png)
 
-###### **Edit Profile Page**
-![alt text](https://github.com/ceffrosynis/crypto-wallet/blob/main/pics/Edit%20Profile%20Page.png)
+###### **Edit Info Page**
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Edit%20Info%20Page.png)
 
-###### **My Wallet Page**
-![alt text](https://github.com/ceffrosynis/crypto-wallet/blob/main/pics/My%20Wallet%20Page.png)
+###### **My Cart Page**
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Cart%20Page.png)
 
-###### **Search Results Page**
-![alt text](https://github.com/ceffrosynis/crypto-wallet/blob/main/pics/Search%20Results%20Page.png)
+###### **Checkout Page**
+![alt text](https://github.com/ceffrosynis/eshop/blob/main/pics/Checkout%20Page.png)
