@@ -36,6 +36,7 @@ The objective in this project is to become familiar with the **main logic of an 
 ```
 python3 -m venv venv
 source venv/bin/activate
+pip install wheel
 pip install -r requirements.txt
 ```
 
@@ -43,6 +44,7 @@ pip install -r requirements.txt
 
 You have to create the tables in the database before you can use them
 ```
+cd ebook
 python manage.py migrate
 ```
 In order to apply some changes (Update) to your model you have to run
